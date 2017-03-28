@@ -690,12 +690,14 @@ public class DBCPacketHandlerServer {
                   for(int var12 = 0; var12 < var4.worldServers.length; ++var12) {
                      int var13 = var4.worldServers[var12].provider.dimensionId;
                      if(var13 == DBCConfig.otherWorld) {
-                        for(var7 : var4.worldServers[var12].playerEntities) {
+                        for(Object var71 : var4.worldServers[var12].playerEntities) {
+                           EntityPlayer var8 = (EntityPlayer) var71;
                            byte var15 = JRMCoreH.getByte(var7, "jrmcAlv");
-                           if(var15 == 1 && var7 != null && var7.dimension == DBCConfig.otherWorld) {
-                              int var16 = JRMCoreH.Algnmnt(JRMCoreH.getByte(var7, "jrmcAlign"));
+                           if(var15 == 1 && var8 != null && var8.dimension == DBCConfig
+                                   .otherWorld) {
+                              int var16 = JRMCoreH.Algnmnt(JRMCoreH.getByte(var8, "jrmcAlign"));
                               if(var11 == var16) {
-                                 JRMCoreH.setInt(0, var7, "jrmcReviveTmer");
+                                 JRMCoreH.setInt(0, var8, "jrmcReviveTmer");
                                  String var17 = JRMCoreH.trlai("dbc", "canrevivenow");
                                  ChatStyle var18 = (new ChatStyle()).setColor(EnumChatFormatting.YELLOW);
                                  var7.addChatMessage((new ChatComponentTranslation(var17, new Object[0])).setChatStyle(var18));
@@ -787,7 +789,8 @@ public class DBCPacketHandlerServer {
          for(int var25 = 0; var25 < var4.worldServers.length; ++var25) {
             int var30 = var4.worldServers[var25].provider.dimensionId;
             if(var30 == DBCConfig.otherWorld) {
-               for(EntityPlayer var38 : var4.worldServers[var25].playerEntities) {
+               for(Object var37 : var4.worldServers[var25].playerEntities) {
+                  EntityPlayer var38 = (EntityPlayer) var37;
                   if(var38 != null && var38.dimension == DBCConfig.otherWorld) {
                      byte var40 = JRMCoreH.getByte(var38, "jrmcAlv");
                      if(var40 == 1) {

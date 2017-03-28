@@ -86,7 +86,7 @@ public class DBCGuiArtGravDev extends GuiContainer {
       StringBuilder var10000 = (new StringBuilder()).append(JRMCoreH.trl("dbc", "Gravity")).append(": ");
       Object var13;
       if(this.tileFurnace.isBurning() && this.tileFurnace.getGravity() > 1.0F) {
-         var13 = Float.valueOf(this.tileFurnace.getGravity());
+         var13 = this.tileFurnace.getGravity();
       } else {
          String var10002;
          label200: {
@@ -102,7 +102,7 @@ public class DBCGuiArtGravDev extends GuiContainer {
             var10002 = "";
          }
 
-         var13 = var13.append(var10002).toString();
+         var13 = ((StringBuilder) var13).append(var10002).toString();
       }
 
       String var9 = var10000.append(var13).toString();

@@ -139,9 +139,7 @@ public class EntityNamekian03 extends EntityVillager implements INpc, IMerchant 
          if(this.timeUntilReset <= 0) {
             if(this.needsInitilization) {
                if(this.buyingList.size() > 1) {
-                  for(MerchantRecipe var2 : this.buyingList) {
-                     ;
-                  }
+                  // nothing
                }
 
                this.addDefaultEquipmentAndRecipies(1);
