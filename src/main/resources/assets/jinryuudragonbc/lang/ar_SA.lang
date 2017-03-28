@@ -1,0 +1,638 @@
+itemGroup.DragonBlockC=دراقون بلوك سي
+
+jinryuudragonblockc.DBCServerConfigurations=
+jinryuudragonblockc.PlanetVegeta=كوكب فيغيتا
+jinryuudragonblockc.Flyneedsskilllevel=
+jinryuudragonblockc.DBSpawn=
+jinryuudragonblockc.SagaSystem=
+jinryuudragonblockc.DeathSystem=
+jinryuudragonblockc.Explosions=انفجارات
+jinryuudragonblockc.NPCBuildingSpawnCheck=
+jinryuudragonblockc.KamiOutlookSafeZone=
+jinryuudragonblockc.DeathPenalty=
+jinryuudragonblockc.Earthrate=
+jinryuudragonblockc.Namekrate=
+
+
+
+entity.jinryuudragonblockc.Namekian01.name=Namekian
+entity.jinryuudragonblockc.Namekian03.name=Namekian
+entity.jinryuudragonblockc.Saiyan01.name=Saiyan
+entity.jinryuudragonblockc.Saiyan02.name=Saiyan
+entity.jinryuudragonblockc.Saibaiman.name=Saibaman
+entity.jinryuudragonblockc.Raditz.name=Raditz
+entity.jinryuudragonblockc.Nappa.name=Nappa
+entity.jinryuudragonblockc.Vegeta.name=Vegeta
+entity.jinryuudragonblockc.Goku.name=
+
+entity.jinryuudragonblockc.Kiwi.name=Cui
+entity.jinryuudragonblockc.Dodoria.name=دودوريا
+entity.jinryuudragonblockc.Zarbon.name=Zarbon
+entity.jinryuudragonblockc.Guldo.name=Guldo
+entity.jinryuudragonblockc.Recoome.name=Recoome
+entity.jinryuudragonblockc.Barta.name=Burter
+entity.jinryuudragonblockc.Jeice.name=Jeice
+entity.jinryuudragonblockc.Ginyu.name=Ginyu
+entity.jinryuudragonblockc.FreezaSoldier1.name=Frieza's Soldier
+entity.jinryuudragonblockc.FreezaSoldier2.name=Frieza's Soldier
+entity.jinryuudragonblockc.FreezaSoldier3.name=Frieza's Soldier
+entity.jinryuudragonblockc.Freeza1.name=Frieza
+entity.jinryuudragonblockc.Freeza2.name=Frieza
+entity.jinryuudragonblockc.Freeza3.name=Frieza
+entity.jinryuudragonblockc.Freeza4.name=Frieza
+entity.jinryuudragonblockc.Freeza5.name=Frieza
+entity.jinryuudragonblockc.Freeza6.name=Frieza
+
+entity.jinryuudragonblockc.KingCold.name=King Cold
+entity.jinryuudragonblockc.MechaFreeza.name=Mecha Frieza
+entity.jinryuudragonblockc.Cell1.name=Cell
+entity.jinryuudragonblockc.Cell2.name=Cell
+entity.jinryuudragonblockc.Cell3.name=Cell
+entity.jinryuudragonblockc.Cell4.name=Cell
+
+entity.jinryuudragonblockc.Cyborg16.name=Android #16
+entity.jinryuudragonblockc.Cyborg17.name=Android #17
+entity.jinryuudragonblockc.Cyborg18.name=Android #18
+entity.jinryuudragonblockc.Cyborg19.name=Android #19
+entity.jinryuudragonblockc.Cyborg20.name=Android #20
+
+entity.jinryuudragonblockc.Puipui.name=
+entity.jinryuudragonblockc.Yakon.name=
+entity.jinryuudragonblockc.Darbura.name=
+entity.jinryuudragonblockc.BuuFat.name=
+entity.jinryuudragonblockc.BuuSuper.name=
+
+entity.jinryuudragonblockc.enma.name=King Yemma
+entity.jinryuudragonblockc.kami.name=Kami
+entity.jinryuudragonblockc.northkaio.name=King Kai
+entity.jinryuudragonblockc.karin.name=Korin
+entity.jinryuudragonblockc.roshi.name=
+entity.jinryuudragonblockc.cellmaster.name=
+entity.jinryuudragonblockc.Freezamaster.name=
+entity.jinryuudragonblockc.gokumaster.name=
+entity.jinryuudragonblockc.masterbabidi.name=
+
+entity.jinryuudragonblockc.EntityDino01.name=Dinosaur
+entity.jinryuudragonblockc.Kintoun.name=Flying Nimbus
+entity.jinryuudragonblockc.KintounBlack.name=
+entity.jinryuudragonblockc.SpacePod.name=Saiyan Pod
+entity.jinryuudragonblockc.Dragon.name=Dragon
+entity.jinryuudragonblockc.Dragon2.name=Dragon
+entity.jinryuudragonblockc.Dragonp.name=Porunga
+entity.jinryuudragonblockc.Dragonp2.name=Porunga
+
+
+dbc.itemki.line1=pronunciation: 'kee'
+dbc.itemki.line2=It is chi or energy, a force energy
+dbc.itemki.line3=used for several DBC Techniques
+
+dbc.itemDRadar.line1=A Dragon Block Radar. Only
+dbc.itemDRadar.line2=Dragon Blocks that are not
+dbc.itemDRadar.line3=stone can be detected.
+
+dbc.itemKiAtt.line1=التكلفة: 
+dbc.itemKiAtt.line2=ضرر: 
+dbc.itemKiAtt.line2.2= HH
+dbc.itemKiAtt.line3=تفجر على الأرض
+dbc.itemKiAtt.line4=هجوم Ki عادي
+
+dbc.itemSaiySaga.line1=Saiyan Saaga Item
+dbc.itemSaiySagaRad.line1=رادتز وصل!
+dbc.itemSaiySagaRad.d.line1=!رادتز: اثنان من السايان سيأتون و يدمرون الكوكب
+dbc.itemSaiySagaVeg.line1=!وصلا فيجيتا و نابا
+dbc.itemSaiySagaVeg.d.line1=!فيجيتا: يا أيها المحارب الضعيف سنلتقي مجددا
+
+dbc.itemFreeSaga.line1=Frieza Saga Item
+dbc.itemFreeSagaCui.line1=كوي: لن ادعك تقف في طريق القائد فريزا
+dbc.itemFreeSagaDod.line1=دودوريا: ماذا تضن نفسك فاعلا
+dbc.itemFreeSagaZar.line1=!زاربون: لا احد يستهزئ بنا! أتسمع؟ لا أحد
+
+dbc.itemFreeSagaGin.1.line1=أنا ركوم!
+dbc.itemFreeSagaGin.2.line1=انا برتر!
+dbc.itemFreeSagaGin.3.line1=انا جييس!
+dbc.itemFreeSagaGin.4.line1=غولدو!
+dbc.itemFreeSagaGin.5.line1=الكابتن غينيو
+dbc.itemFreeSagaGin.6.line1=نحن نشكل .....فريق الغنيو
+dbc.itemFreeSagaGin.d.1.line1=ركوم: اوه الشوكولا خاصتي....
+dbc.itemFreeSagaGin.d.5.line1=غينيو: لا يمكن....انا ثاني اقوة شخص تحت القائد فريزا
+
+dbc.itemFreeSagaFre.1.line1=فريزا: لن تنجو بعد كل ما فعلت!
+dbc.itemFreeSagaFre.2.line1=فريزا: سأقتلك بيدي!
+dbc.itemFreeSagaFre.d.1.line1=فريزا: لماذا انت لوكنت قد تحولت لما حصل هذا....
+dbc.itemFreeSagaFre.d.2.line1=فريزا: هذا مستحيل!كيف؟
+dbc.itemFreeSagaFre.d.3.line1=فريزا: لماذا؟ لماذا؟ في بضع ثواني كنت سأتحول
+dbc.itemFreeSagaFre.d.4.line1=فريزا: الان لن ترى قوتي الحقيقية....
+dbc.itemFreeSagaFre.d.5.line1=فريزا: هذا غير عادل لما لم تنتظر لاخر تحول لي؟
+dbc.itemFreeSagaFre.d.6.line1=فريزا: ولكن كيف؟
+
+dbc.MainSaga.14.1=فريزا المعدل: اقتلو اهل الأرض يا جنود!
+dbc.MainSaga.14.2.1=الملك كولد: الم تريد ان تنتضر؟
+dbc.MainSaga.14.2.2=?
+dbc.MainSaga.15.1=فريزا المعدل: سأقتلك لما فعلته بي!
+dbc.MainSaga.19.1=Android #20: نحن ال Androids صنعنا من قبل جيش ال  Red Ribbon الذي تم تدميره منذ وقت طويل.
+dbc.MainSaga.19.2=Android #20: نحن هنا للثأر
+dbc.MainSaga.22.1=Android #17: و أخيرا د.جيرو قد مات لن يطفئنا أحد!
+dbc.MainSaga.22.2=Android #18: اود اللعب مع زائرنا لوحدي.
+dbc.MainSaga.22.3=Android #17: حسنا اذا,حتى تنتهي سأبحث عن سيارة مع #16.
+dbc.MainSaga.26.1=سيل: اتمنا ان تسليني افضل من المرة السابقا.
+dbc.MainSaga.26.2=سيل: لا تستطيع الاختباء مني!
+
+dbc.MainSaga.25.1=Android #17: ماذا حصل ل#18? لا احد يستطيع ان يهزمنا!
+dbc.MainSaga.25.2=Android #16: لا استطيع ان اجعل سيل يأخذ #17. اخرج من هنا!
+dbc.MainSaga.25.3=Android #17: من تضن نفسك لتأمرني? انا #17 انا الأقوى!
+dbc.MainSaga.29.1=سيل: اتمنا ان تسليني افضل من المرة السابقا.
+dbc.MainSaga.29.2=سيل: لا تستطيع الاختباء مني!
+dbc.MainSaga.17.1=طبعا, سأفعل.
+dbc.MainSaga.17.2=هذا مأساوي. يبدو انه هناك اكثر
+dbc.MainSaga.17.3=مرعب,فريزا سيقترب.
+dbc.MainSaga.17.4=المستقبل اتنظر على شسئ يخصني
+dbc.MainSaga.d.Cold=الملك كولد : لا تقتلني
+dbc.MainSaga.d.Freeza=
+
+dbc.MainSaga.d.c20=Android #20: بم تترك لي اي خيار, علي تفعيل #17 و #18! و لن يسعدك هذا.
+dbc.MainSaga.d.c19=Android #19: لا أريد ان اموت!!!
+dbc.MainSaga.d.c19.resp=كم هو سخيف سماع هذا من android.
+dbc.MainSaga.d.c18=Android #18: لا ! أبتعد عني يا أيها المتوحش! ااااه!
+dbc.MainSaga.22.cell1=سيل: لا تخف الن ستصبح جزء مني يا #18
+dbc.MainSaga.22.cell2=سيل: سأستخدمك بطريقة جيدة, ثق بي #17.
+dbc.MainSaga.23.cell0=سيل: لا احد سيقف بطريقي... لا أحد!
+dbc.MainSaga.23.cell1=سيل: فقط 1 بقي للكمال!
+dbc.MainSaga.23.cell2=سيل: و اخيرا انا مكتمل! 
+dbc.MainSaga.23.cell3=سيل: سأدعك تذهب هذه المرة. نلتقي الرة القادمة, فلتكن أقوى! 
+dbc.MainSaga.d.c17=Android #17: ماذا?! ما أنت? سأتلك.... اااه!
+dbc.MainSaga.d.c16=Android #16: انا اسف. اردت ان احميالطبيعة التي احببتها.
+dbc.MainSaga.d.cell1=سيل: تظن انك ستقتلني بهذه السهولة?
+dbc.MainSaga.d.cell2=سيل: لن يعمل هذا و أنت ادرى.
+dbc.MainSaga.d.cell3=سيل: كان من المفترض ان اكون مكتمل... كيف فعلت... لا... أنا مكتمل!!!!
+dbc.MainSaga.d.cell4=سيل: ا.... نا.....مكتمل........!
+
+dbc.MainSaga.30.1=
+dbc.MainSaga.31.1=
+dbc.MainSaga.31.d=
+dbc.MainSaga.32.1=
+dbc.MainSaga.32.d=
+dbc.MainSaga.33.1=
+dbc.MainSaga.33.d=
+dbc.MainSaga.34.1=
+dbc.MainSaga.34.d=
+dbc.MainSaga.36.1=
+dbc.MainSaga.36.d=
+dbc.MainSaga.38.1=
+dbc.MainSaga.38.2=
+dbc.MainSaga.38.d=
+
+dbc.sidesagas.101.talkok=
+dbc.sidesagas.101.talk=
+
+dbc.sagasystem.freeza=
+dbc.sagasystem.saiyan=
+dbc.sagasystem.android=
+dbc.sagasystem.buu=
+dbc.sagasystem.credits=
+dbc.sagasystem.0.title=
+dbc.sagasystem.0.desc=
+dbc.sagasystem.0.obj=
+dbc.sagasystem.1.title=
+dbc.sagasystem.1.desc=
+dbc.sagasystem.1.obj=
+dbc.sagasystem.2.title=
+dbc.sagasystem.2.desc=
+dbc.sagasystem.2.obj=
+dbc.sagasystem.3.title=
+dbc.sagasystem.3.desc=
+dbc.sagasystem.3.obj=
+dbc.sagasystem.4.title=
+dbc.sagasystem.4.desc=
+dbc.sagasystem.4.obj=
+dbc.sagasystem.5.title=
+dbc.sagasystem.5.desc=
+dbc.sagasystem.5.obj=
+dbc.sagasystem.6.title=
+dbc.sagasystem.6.desc=
+dbc.sagasystem.6.obj=
+dbc.sagasystem.7.title=
+dbc.sagasystem.7.desc=
+dbc.sagasystem.7.obj=
+dbc.sagasystem.8.title=
+dbc.sagasystem.8.desc=
+dbc.sagasystem.8.obj=
+dbc.sagasystem.9.title=
+dbc.sagasystem.9.desc=
+dbc.sagasystem.9.obj=
+dbc.sagasystem.10.title=
+dbc.sagasystem.10.desc=
+dbc.sagasystem.10.obj=
+dbc.sagasystem.11.title=
+dbc.sagasystem.11.desc=
+dbc.sagasystem.11.obj=
+dbc.sagasystem.12.title=
+dbc.sagasystem.12.desc=
+dbc.sagasystem.12.obj=
+dbc.sagasystem.13.title=
+dbc.sagasystem.13.desc=
+dbc.sagasystem.13.obj=
+dbc.sagasystem.14.title=
+dbc.sagasystem.14.desc=
+dbc.sagasystem.14.obj=
+dbc.sagasystem.15.title=
+dbc.sagasystem.15.desc=
+dbc.sagasystem.15.obj=
+dbc.sagasystem.16.title=
+dbc.sagasystem.16.desc=
+dbc.sagasystem.16.obj=
+dbc.sagasystem.17.title=
+dbc.sagasystem.17.desc=
+dbc.sagasystem.17.obj=
+dbc.sagasystem.18.title=
+dbc.sagasystem.18.desc=
+dbc.sagasystem.18.obj=
+dbc.sagasystem.19.title=
+dbc.sagasystem.19.desc=
+dbc.sagasystem.19.obj=
+dbc.sagasystem.20.title=
+dbc.sagasystem.20.desc=
+dbc.sagasystem.20.obj=
+dbc.sagasystem.21.title=
+dbc.sagasystem.21.desc=
+dbc.sagasystem.21.obj=
+dbc.sagasystem.22.title=
+dbc.sagasystem.22.desc=
+dbc.sagasystem.22.obj=
+dbc.sagasystem.23.title=
+dbc.sagasystem.23.desc=
+dbc.sagasystem.23.obj=
+dbc.sagasystem.24.title=
+dbc.sagasystem.24.desc=
+dbc.sagasystem.24.obj=
+dbc.sagasystem.25.title=
+dbc.sagasystem.25.desc=
+dbc.sagasystem.25.obj=
+dbc.sagasystem.26.title=
+dbc.sagasystem.26.desc=
+dbc.sagasystem.26.obj=
+dbc.sagasystem.27.title=
+dbc.sagasystem.27.desc=
+dbc.sagasystem.27.obj=
+dbc.sagasystem.28.title=
+dbc.sagasystem.28.desc=
+dbc.sagasystem.28.obj=
+dbc.sagasystem.29.title=
+dbc.sagasystem.29.desc=
+dbc.sagasystem.29.obj=
+dbc.sagasystem.30.title=
+dbc.sagasystem.30.desc=
+dbc.sagasystem.30.obj=
+dbc.sagasystem.31.title=
+dbc.sagasystem.31.desc=
+dbc.sagasystem.31.obj=
+dbc.sagasystem.32.title=
+dbc.sagasystem.32.desc=
+dbc.sagasystem.32.obj=
+dbc.sagasystem.33.title=
+dbc.sagasystem.33.desc=
+dbc.sagasystem.33.obj=
+dbc.sagasystem.34.title=
+dbc.sagasystem.34.desc=
+dbc.sagasystem.34.obj=
+dbc.sagasystem.35.title=
+dbc.sagasystem.35.desc=
+dbc.sagasystem.35.obj=
+dbc.sagasystem.36.title=
+dbc.sagasystem.36.desc=
+dbc.sagasystem.36.obj=
+dbc.sagasystem.37.title=
+dbc.sagasystem.37.desc=
+dbc.sagasystem.37.obj=
+dbc.sagasystem.38.title=
+dbc.sagasystem.38.desc=
+dbc.sagasystem.38.obj=
+dbc.sagasystem.39.title=
+dbc.sagasystem.39.desc=
+dbc.sagasystem.39.obj=
+
+dbc.sagasystem.all.ak=
+dbc.sagasystem.all.none=
+dbc.sagasystem.all.one=
+dbc.sagasystem.all.tk=
+
+dbc.sagasystem.reward=
+dbc.sagasystem.accept=
+dbc.sagasystem.decline=
+dbc.sagasystem.abandon=
+
+dbc.sagasystem.Protect=للحماية
+dbc.sagasystem.Myself=لنفسك
+dbc.sagasystem.Evil=للشر
+dbc.sagasystem.Fight=قاتل
+dbc.sagasystem.Skip=تخطي
+dbc.sagasystem.Restart=اعادة
+dbc.sagasystem.start=
+
+dbc.group.recivedinv=
+dbc.group.form=
+dbc.group.invite=
+dbc.group.setleader=
+dbc.group.kick=
+dbc.group.disband=
+dbc.group.leave=
+dbc.group.leader=
+dbc.group.next=
+dbc.group.back=
+dbc.group.prev=
+
+dbc.sidesagas.100.story=
+dbc.sidesagas.100.title=
+dbc.sidesagas.100.desc=
+dbc.sidesagas.100.obj=
+dbc.sidesagas.101.title=
+dbc.sidesagas.101.desc=
+dbc.sidesagas.101.obj=
+
+
+dbc.entitymasters.insafezone=
+dbc.entitymasters.nofightinsafe=
+dbc.entitymasters.leftsafe=
+
+dbc.entity.death.youllregretthis=
+dbc.packets.notenoughtp=
+
+dbc.timechamber.waitillenter=
+dbc.timechamber.waitillenter.min=
+dbc.timechamber.waitillenter.sec=
+dbc.timechamber.mustwaitaday=
+
+dbc.worldgen.buildings.beenfound=
+dbc.clienttick.increltouseki=
+
+dbc.com.loc.coords=
+dbc.com.loc.kami=
+dbc.com.loc.kame=
+dbc.com.loc.kamenotexp=
+dbc.com.loc.cell=
+dbc.com.loc.cellnotexp=
+dbc.com.loc.goku=
+dbc.com.loc.gokunotexp=
+dbc.com.loc.babidi=
+dbc.com.loc.babidinotexp=
+dbc.com.loc.freeza=
+dbc.com.loc.freezanotexp=
+
+
+
+dbc.itemSenzu.line1=Senzubean سيملء stamina bar و base ki.
+dbc.ItemDinoMeat.line1=Dino Meat سيعيد 500 calorie و 10% Ki.
+dbc.HTC.toolong=كنت في ال htc لمدة طويلا.
+dbc.HTC.how=ستحصل على JrmcExp لو كان لديك BP اكثرمن
+dbc.HTC.how.2=, TP تحت
+dbc.HTC.how.3=و انت تتحرك.
+dbc.HTC.how2=ستحصل على JrmcExp حتى تصل
+dbc.HTC.how2.2=BP أو
+dbc.HTC.how2.3=TP, اذا ننحرك.
+
+dbc.KABigBang.name=BigBang Attack
+dbc.KABlast.name=Ki Blast
+dbc.KABurningAtt.name=Burning Attack
+dbc.KADeathBeam.name=Death Beam
+dbc.KADodon.name=DodonRay
+dbc.KAEnergyDisk.name=Destructo Disk
+dbc.KAFinalFlash.name=Final Flash
+dbc.KAFingerLeser.name=Finger Laser
+dbc.KAGalicGun.name=Galic Gun
+dbc.KAHame.name=KameHameHa
+dbc.KAHame10x.name=KameHameHa x10
+dbc.KAMakanko.name=Makankosappo
+dbc.KAMasenko.name=Masenko
+dbc.KAPlanetDest.name=Supernova
+dbc.KASpiritbomb.name=SpiritBomb
+dbc.KTKaioken.name=Kaio-Ken
+
+dbc.moreevil.line1=You've become more Evil!
+
+
+dbc.saagui.abilities=Abilities
+dbc.saagui.sagasystem=Saga System
+dbc.saagui.trainingpoints=Training Points
+dbc.saagui.body=Body 
+dbc.saagui.maxki=Spirit 
+dbc.saagui.chargeki=Charge Rate 
+dbc.saagui.dash=Dash 
+dbc.saagui.punch=Punch 
+dbc.saagui.jump=Jump 
+dbc.saagui.fly=Flight 
+dbc.saagui.ascending=Ascending 
+dbc.saagui.attackpower=Attack Power 
+dbc.saagui.selecthair=Select Hair
+dbc.saagui.forgetattacks=Forget learned Ki Attacks
+dbc.saagui.next=Next
+dbc.saagui.back=Back
+dbc.saagui.accept=Accept
+dbc.saagui.Black=Black
+dbc.saagui.White=White
+dbc.saagui.Purple=Purple
+dbc.saagui.Red=Red
+dbc.saagui.Brown=Brown
+dbc.saagui.Orange=Orange
+dbc.saagui.Green=Green
+dbc.saagui.Cyan=Cyan
+dbc.saagui.Blue=Blue
+dbc.saagui.curexp=Current DBC Experience:
+dbc.saagui.exptp=5 DBC Exp 
+dbc.saagui.newskill=تعلمت تقنية جديدة!
+
+dbc.wishgui.diamonds=Diamonds
+dbc.wishgui.chip=Tier 1 Chip
+dbc.wishgui.warcryst=Warenai Crystal
+dbc.wishgui.senzu=Senzubean
+dbc.wishgui.kshard=Katchin Shard
+dbc.wishgui.younger2=2 MC Years Younger
+dbc.wishgui.younger6=6 MC Years Younger
+
+dbc.talkgui.kintoun=احصل علىFlying Nimbus
+dbc.talkgui.kintounblack=
+dbc.talkgui.revfree=انعاش مجاني
+dbc.talkgui.learnki=تعلم هجومات ال Ki
+dbc.talkgui.anew=بدء جديد
+dbc.talkgui.line0000=Kami
+dbc.talkgui.line0001=لا يبدو أن قلبك
+dbc.talkgui.line0002=لاكن واضح كما ضننت.
+dbc.talkgui.line0003=ولكن, سأعلمك.
+dbc.talkgui.line0004=نحن فرحون لرؤيتك حي!
+dbc.talkgui.line0005=اذا اردت ان تعرف اي من 
+dbc.talkgui.line0006=هجومات ال ki, استطيع تعليمك كلها.
+dbc.talkgui.line0007=لا نحب الأشخاص مثلك, ولكن بما اني 
+dbc.talkgui.line0008=أنا الوحيد الذي يستطيع تعليمك
+dbc.talkgui.line0009=سأعلمك هجومات الki اذا اردت.
+dbc.talkgui.line0010=King Kai
+dbc.talkgui.line0011=لا يبدو انك جيد جدا
+dbc.talkgui.line0012=و لكنك مقاتل قوي!
+dbc.talkgui.line0013=لذا سأعلمك تقنيلتي.
+dbc.talkgui.line0014=اوه انت هنا! كنت انتظر قدومك!
+dbc.talkgui.line0015=ستكون تقنياتي الأقوى
+dbc.talkgui.line0016=لطالما تبقى جيد!
+dbc.talkgui.line0017=كيف وصلت الى هنا? السيئين مثلك
+dbc.talkgui.line0018=غير مسموح لك الوجود على
+dbc.talkgui.line0019=كوكبي. لن اعلمك أي شيء!
+
+dbc.talkgui.karin.00=Korin
+dbc.talkgui.karin.01=أهلا! أنا فرح برؤيتك هنا.
+dbc.talkgui.karin.02=مرا في اليوم سأعطيك senzu bean,
+dbc.talkgui.karin.03=اذا احتجت اي.
+dbc.talkgui.karin.04=سجب ان تطهر قلبك أكثر.
+dbc.talkgui.karin.05=ذا بقيت هكذا ستصبح
+dbc.talkgui.karin.06=سيء و نحن لا نريد هذا
+dbc.talkgui.karin.07=أخرج من هنا الان.
+dbc.talkgui.karin.08=ليس مرحب بك هنا!
+dbc.talkgui.karin.09=
+dbc.talkgui.karin.senzu=اطلب Senzubean
+dbc.talkgui.karin.nosenzu=ليس لدينا اي Senzubeans,انتظر حتى الغد.
+
+
+jinryuudragonblockc.KaioDiffRed=
+dbc.talkgui.difftonormal=
+dbc.talkgui.no=
+dbc.talkgui.confirm=
+dbc.talkgui.kami.forcetailregrow=
+dbc.talkgui.kami.cutdowntail=
+dbc.talkgui.owned=
+dbc.talkgui.cost=
+
+dbc.talkgui.kami.startanew=
+dbc.talkgui.kami.confirmtailcut=
+dbc.talkgui.kami.tailregrow=
+
+dbc.talkgui.roshi.goodneut=
+dbc.talkgui.cell.evil=
+dbc.talkgui.cell.goodneut=
+dbc.talkgui.songoku.goodneut=
+dbc.talkgui.songoku.evil=
+dbc.talkgui.freeza.evil=
+dbc.talkgui.freeza.else=
+dbc.talkgui.babidi.evilneut=
+dbc.talkgui.babidi.good=
+dbc.talkgui.babidi.fullgood=
+
+
+dbc.talkgui.skills=تعلم تقنيات
+dbc.talkgui.learntechs=
+dbc.skill.jump.name=قفز
+dbc.skill.dash.name=ركض
+dbc.skill.fly.name=طيران
+dbc.skill.over.name=الشحن الزائد
+dbc.skill.endu.name=تحمل
+
+
+
+tile.BlockTCFloor.name=Hyperbolic Time Chamber Floor
+tile.BlockTCPort.name=Hyperbolic Time Chamber Portal
+
+tile.SpacePod01Block.name=Space Pod
+
+item.SpacePod01Item.name=Space Pod
+
+tile.SaibaiHatched.name=Saibaiman Hatched
+
+item.ItemDragonRadar.name=Dragon Radar
+
+tile.BlockNamekDragonBallStone.name=Stone Namek Dragon Block
+item.ItemNamekDragonBlock.name=Namek Dragon Block
+
+tile.BlockDragonBallStone.name=Stone Dragon Block
+
+item.ItemDragonBlock.name=Dragon Block 
+
+tile.BlockOreWrenai.name=Warenai Ore
+tile.BlockNamekGrass.name=Namek Grass
+tile.BlockNamekLog.name=Ajisa Wood
+tile.BlockNamekDirt.name=Lighter Dirt
+tile.BlockNamekLeaves.name=Ajisa Leaves
+tile.BlockKiFire.name=Ki Energy
+tile.BlockNamekStone.name=Basic Wall Stone
+tile.BlockAlienStone.name=Dirty Stone
+tile.BlockAlienCobbleStone.name=Dirty Cobblestone
+tile.BlockHealingPods.name=
+
+item.ItemWarenai.name=Warenai Crystal
+item.ItemSenzu.name=Senzu Bean
+item.ItemKatana.name=Katana
+item.ItemKatchin.name=Katchin Shard
+item.ItemDinoMeat.name=Dinosaur Meat
+item.ItemDinoMeatCooked.name=
+
+tile.BlockNamekSapling.name=Ajisa Sapling
+
+item.ItemBraveSword.name=Brave Sword
+item.ItemZSword.name=Z Sword
+item.ItemKatanaHandle.name=Katana Hilt
+item.ItemBraveSwordHandle.name=Brave Sword Hilt
+item.ItemZSwordHandle.name=Z Sword Hilt
+item.ItemKatanaSwordBlade.name=Katana Blade
+item.ItemBraveSwordBlade.name=Brave Sword Blade
+item.ItemZSwordBlade.name=Z Sword Blade
+
+item.ItemAlienTechChipTier1.name=Tech Chip Tier 1
+item.ItemChipTier2.name=Tech Chip Tier 2
+item.ItemChipTier3.name=Tech Chip Tier 3
+
+item.KintounItem.name=Flying Nimbus
+item.KintounBlackItem.name=
+
+
+item.YellowScoutera.name=Yellow Scouter Tier 2
+item.RedScoutera.name=Red Scouter Tier 2
+item.PurpleScoutera.name=Purple Scouter Tier 2
+item.BlueScoutera.name=Blue Scouter Tier 2
+item.GreenScoutera.name=Green Scouter Tier 2
+item.PinkScoutera.name=Pink Scouter Tier 2
+item.YellowScouterb.name=Yellow Scouter Tier 3
+item.RedScouterb.name=Red Scouter Tier 3
+item.PurpleScouterb.name=Purple Scouter Tier 3
+item.BlueScouterb.name=Blue Scouter Tier 3
+item.GreenScouterb.name=Green Scouter Tier 3
+item.PinkScouterb.name=Pink Scouter Tier 3
+
+item.YellowScouter.name=Yellow Scouter Tier 1
+item.BattleArmorChest00.name=Battle Armor Torso
+item.BattleArmorLegs00.name=Battle Armor Leggings
+item.BattleArmorBoots00.name=Battle Armor Boots
+
+item.RedScouter.name=Red Scouter Tier 1
+item.BattleArmorChest01.name=Battle Armor Torso
+item.BattleArmorLegs01.name=Battle Armor Leggings
+item.BattleArmorBoots01.name=Battle Armor Boots
+
+item.PurpleScouter.name=Purple Scouter Tier 1
+item.BattleArmorChest02.name=Battle Armor Torso
+item.BattleArmorLegs02.name=Battle Armor Leggings
+item.BattleArmorBoots02.name=Battle Armor Boots
+
+item.BlueScouter.name=Blue Scouter Tier 1
+item.BattleArmorChest03.name=Battle Armor Torso
+item.BattleArmorLegs03.name=Battle Armor Leggings
+item.BattleArmorBoots03.name=Battle Armor Boots
+
+item.GreenScouter.name=Green Scouter Tier 1
+item.BattleArmorChest04.name=Battle Armor Torso
+item.BattleArmorLegs04.name=Battle Armor Leggings
+item.BattleArmorBoots04.name=Battle Armor Boots
+
+item.PinkScouter.name=Pink Scouter Tier 1
+item.BattleArmorChest05.name=Battle Armor Torso
+item.BattleArmorLegs05.name=Battle Armor Leggings
+item.BattleArmorBoots05.name=Battle Armor Boots
+
+item.GiFighterTorso1.name=Orange Gi with T-Shirt
+item.GiFighterLeg1.name=Orange Gi Pants
+item.GiFighterBoots1.name=Blue Shoes
+item.GiNamekTorso0.name=Namekian Gi Shirt
+item.GiNamekLeg0.name=Namekian Gi Pants
+item.GiNamekBoots0.name=Namekian Shoes
+item.GiFutureTorso0.name=Future Jacket
+item.GiFutureLeg0.name=Future Pants
+item.GiFutureBoots0.name=Future Shoes
+item.GiFighterTorso2.name=Blue Gi Shirt
+item.GiFighterLeg2.name=Blue Gi Pants
+item.GiFighterBoots2.name=White Boots
+
+item.KameTorso1.name=Orange Gi Tank Top
+item.KameBoots1.name=Black Shoes
+item.GiFighterTorso3.name=Orange Gi with Sleeves

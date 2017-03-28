@@ -1,0 +1,830 @@
+itemGroup.DragonBlockC=Dragon Block C
+
+jinryuudragonblockc.DBCServerConfigurations=DBC Szerver Beállítások
+jinryuudragonblockc.PlanetVegeta=Vegeta Bolygó
+jinryuudragonblockc.flyneedsskilllevel=fly
+jinryuudragonblockc.DBSpawn=Dragon Block Megjelenítése
+jinryuudragonblockc.SagaSystem=Saga Rendszer
+jinryuudragonblockc.DeathSystem=Halál Rendszer
+jinryuudragonblockc.Explosions=Robbanások
+jinryuudragonblockc.NPCBuildingSpawnCheck=NPC/Épület Idézés Ellenőrzése
+jinryuudragonblockc.KamiOutlookSafeZone=Biztonságos Zónák
+jinryuudragonblockc.DeathPenalty=Halál Büntetés
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+entity.jinryuudragonblockc.Namekian01.name=Nameklakó
+entity.jinryuudragonblockc.Namekian03.name=Nameklakó
+entity.jinryuudragonblockc.Saiyan01.name=Csillagharcos
+entity.jinryuudragonblockc.Saiyan02.name=Csillagharcos
+entity.jinryuudragonblockc.Saibaiman.name=Saibaiman
+entity.jinryuudragonblockc.Raditz.name=Raditz
+entity.jinryuudragonblockc.Nappa.name=Nappa
+entity.jinryuudragonblockc.Vegeta.name=Vegita
+
+
+entity.jinryuudragonblockc.Kiwi.name=Cui
+entity.jinryuudragonblockc.Dodoria.name=Dodoria
+entity.jinryuudragonblockc.Zarbon.name=Zarbon
+entity.jinryuudragonblockc.Guldo.name=Guldo
+entity.jinryuudragonblockc.Recoome.name=Recoome
+entity.jinryuudragonblockc.Barta.name=Burter
+entity.jinryuudragonblockc.Jeice.name=Jeice
+entity.jinryuudragonblockc.Ginyu.name=Ginyu
+entity.jinryuudragonblockc.FreezaSoldier1.name=Freeza katonái
+entity.jinryuudragonblockc.FreezaSoldier2.name=Freeza katonái
+entity.jinryuudragonblockc.FreezaSoldier3.name=Freeza katonái
+entity.jinryuudragonblockc.Freeza1.name=Freeza
+entity.jinryuudragonblockc.Freeza2.name=Freeza
+entity.jinryuudragonblockc.Freeza3.name=Freeza
+entity.jinryuudragonblockc.Freeza4.name=Freeza
+entity.jinryuudragonblockc.Freeza5.name=Freeza
+entity.jinryuudragonblockc.Freeza6.name=Freeza
+
+entity.jinryuudragonblockc.KingCold.name=Cold Király
+entity.jinryuudragonblockc.MechaFreeza.name=Mecha Freeza
+
+
+
+
+
+entity.jinryuudragonblockc.Cyborg16.name=C16
+entity.jinryuudragonblockc.Cyborg17.name=C17
+entity.jinryuudragonblockc.Cyborg18.name=C18
+entity.jinryuudragonblockc.Cyborg19.name=C19
+entity.jinryuudragonblockc.Cyborg20.name=C20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbc.itemki.line1=Kiejtés: \'kí\'
+dbc.itemki.line2=Ez chi vagy energia, az energia
+dbc.itemki.line3=Számos DBC technikákhoz kell
+
+dbc.itemDRadar.line1=A Sárkány Blokk Radar. Csak
+dbc.itemDRadar.line2=a nem kövesedett 
+dbc.itemDRadar.line3=Sárkány Blokkokat jelzi.
+
+dbc.itemKiAtt.line1=Szükséges: 
+dbc.itemKiAtt.line2=Sebzés: 
+dbc.itemKiAtt.line2.2= HH
+dbc.itemKiAtt.line3=Robban a talajon
+dbc.itemKiAtt.line4=Alapvető Ki támadás
+
+dbc.itemSaiySaga.line1=Saiyan Saga Item
+dbc.itemSaiySagaRad.line1=Raditz megérkezett!
+dbc.itemSaiySagaRad.d.line1=Raditz: 2 másik Csillagharcos fog jönni és elpúsztít téged meg ezt a bolygót!
+dbc.itemSaiySagaVeg.line1=Vegita és Nappa megérkezett!
+dbc.itemSaiySagaVeg.d.line1=Vegeta: Te alacsony osztályú harcos, nem utoljára láttál engem!
+
+dbc.itemFreeSaga.line1=Freeza Saga Item
+dbc.itemFreeSagaCui.line1=Cui: Nem fogom hagyni, hogy Freeza Mester útjába állj!
+dbc.itemFreeSagaDod.line1=Dodoria: Mi a fenét gondolsz mit csinálsz te puhány?
+dbc.itemFreeSagaZar.line1=Zarbon: Senki nem csinálhat bolondot belőlünk! Hallasz? Senki!
+
+dbc.itemFreeSagaGin.1.line1=Én vagyok Recoome!
+dbc.itemFreeSagaGin.2.line1=Én Burter!
+dbc.itemFreeSagaGin.3.line1=Én Jeice!
+dbc.itemFreeSagaGin.4.line1=Guldo!
+dbc.itemFreeSagaGin.5.line1=Ginyu Kapitány!
+dbc.itemFreeSagaGin.6.line1=És együtt mi vagyunk...A Ginyu Különleges Alakulat!
+dbc.itemFreeSagaGin.d.1.line1=Recoome: Oh a csokijaim....
+dbc.itemFreeSagaGin.d.5.line1=Ginyu: Nem lehet... Én vagyok a 2. legerősebb Freeza Mester után!!...
+
+dbc.itemFreeSagaFre.1.line1=Freeza: Nem fogsz elmenni mind ezek után!
+dbc.itemFreeSagaFre.2.line1=Freeza: A kezem álltal halsz meg!
+dbc.itemFreeSagaFre.d.1.line1=Freeza: Miért te.... ha átváltozhattam volna ez nem történt volna meg
+dbc.itemFreeSagaFre.d.2.line1=Freeza: Ez lehetetlen! Hogy?...
+dbc.itemFreeSagaFre.d.3.line1=Freeza: Miért? Miért? csak tudd pár másodpercen belül átváltoztam volna...
+dbc.itemFreeSagaFre.d.4.line1=Freeza: Most nem fogod látni az igazi erőm....
+dbc.itemFreeSagaFre.d.5.line1=Freeza: Ez nem fair! Miért nem tudtál várni az utolsó át alakulásomra?
+dbc.itemFreeSagaFre.d.6.line1=Freeza: De....Hogy?
+
+dbc.MainSaga.14.1=Mecha Freeza: Katonák, öljétek meg a Föld lakókat!
+
+dbc.MainSaga.15.1=Mecha Freeza: Megfoglak őlni azért amit tettél velem!
+dbc.MainSaga.19.1=C20: Mi Androidok vagyunk a Vörös Szalag Rend alkotott ami már elpusztúlt rég.
+dbc.MainSaga.19.2=C20: És most bosszúért vagyunk itt!
+dbc.MainSaga.22.1=C17: Végre, Most, hogy az a Dr Gero meghalt, senki se lesz képes lekapcsolni minket.
+dbc.MainSaga.22.2=C18: Játszani akarok a látogatónkkal egyedül.
+dbc.MainSaga.22.3=C17: Rendben, amíg végzel mi keresünk egy kocsit C16-al.
+dbc.MainSaga.26.1=Cell: Csak remélni tudom, hogy jobban fogsz szórakoztatni mint legutóbb.
+dbc.MainSaga.26.2=Cell: Nem tudsz elbújni előlem!
+
+dbc.MainSaga.25.1=C17: Mi történt C18-al? Senki nem győzhet le minket!
+dbc.MainSaga.25.2=C16: Nem engedhetem Cell-nek, hogy elkapjon C17. Tűnj el innen!
+dbc.MainSaga.25.3=C17: Mit képzelsz, mit parancsolgatsz itt? Én vagyok C17 a legerősebb!
+dbc.MainSaga.29.1=Cell: Csak remélni tudom, hogy jobban fogsz szórakoztatni mint legutóbb.
+dbc.MainSaga.29.2=Cell: Nem tudsz elbújni előlem!
+dbc.MainSaga.17.1=Persze, megteszem.
+dbc.MainSaga.17.2=Ez szörnyű. Úgy tűnik valami még
+dbc.MainSaga.17.3=félelmetesebb jön Freeza-nal is a közel
+dbc.MainSaga.17.4=jövőben. Megtudnál nézni nekem valamit?
+dbc.MainSaga.d.Cold=Cold Király: NE ÖLJ MEEEEEEEEG!
+dbc.MainSaga.d.Freeza=Mecha Freeza: Lehetetlen....
+
+dbc.MainSaga.d.c20=C20: Nem hagysz más választást, aktiválnom kell C17-et és C18-at! És nem leszel boldog azzal!
+dbc.MainSaga.d.c19=C19: Nem akarok meghalni!!!
+dbc.MainSaga.d.c19.resp=Milyen ironikus ezt hallani egy Androidtól.
+dbc.MainSaga.d.c18=C18: Ne! Maradj távol tőlem te szörnyeteg!! ÁÁÁÁH!
+dbc.MainSaga.22.cell1=Cell: Most ne aggódj a részem leszel C18.
+dbc.MainSaga.22.cell2=Cell: Jól kifoglak használni higyj nekem C17.
+dbc.MainSaga.23.cell0=Cell: Senki nem állhat a tökéletességem utjába... SENKI!
+dbc.MainSaga.23.cell1=Cell: Csak egy kis távolság a tökéletességtől.
+dbc.MainSaga.23.cell2=Cell: Végre, tökéletes vagyok! 
+dbc.MainSaga.23.cell3=Cell: El engedlek most az egyszer. Szóval a legközelebbi találkozásig légy erősebb! 
+dbc.MainSaga.d.c17=C17: Mi a! Ki vagy te? Imeg foglak ölni té.... ÁÁÁÁH!
+dbc.MainSaga.d.c16=C16: Sajnálom. Csak meg akartam védeni a természetet amit szeretek.
+dbc.MainSaga.d.cell1=Cell: Azt hiszed ilyen könnyen megtudsz ölni?
+dbc.MainSaga.d.cell2=Cell: Tudod ez nem müködik rajtam.
+dbc.MainSaga.d.cell3=Cell: Tökéletesnek kellene lennem... Akkor hogy tudtál... Nem... Tökéletes vagyok!!!!
+dbc.MainSaga.d.cell4=Cell: Én.... Tökéletes.....Vagyok........
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbc.itemSenzu.line1=Senzu feltölti a kitartás sávod. És az alap Ki-det.
+dbc.ItemDinoMeat.line1=A Dino hús újra tölt 500 kalóriát és 10% Ki-t.
+dbc.HTC.toolong=Túl sokáig voltál a Lélek is Idő szobájában.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbc.moreevil.line1=Egyre jobban gonosz leszel!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbc.saagui.abilities=Képességek
+dbc.saagui.sagasystem=Saga Rendszer
+dbc.saagui.trainingpoints=Tréning Pontok
+dbc.saagui.body=Test 
+dbc.saagui.maxki=Lélek 
+dbc.saagui.chargeki=Töltés Arány 
+dbc.saagui.dash=Futás 
+dbc.saagui.punch=Ütés 
+dbc.saagui.jump=Ugrás 
+dbc.saagui.fly=Repülés 
+dbc.saagui.ascending=Ascending 
+dbc.saagui.attackpower=Támadás Ereje 
+dbc.saagui.selecthair=Haj választás
+dbc.saagui.forgetattacks=Felejtsd el a tanult Ki támadásokat
+dbc.saagui.next=Kövi
+dbc.saagui.back=Vissza
+dbc.saagui.accept=Elfogad
+dbc.saagui.Black=Fekete
+dbc.saagui.White=Fehér
+dbc.saagui.Purple=Lila
+dbc.saagui.Red=Vörös
+dbc.saagui.Brown=Barna
+dbc.saagui.Orange=Narancs
+dbc.saagui.Green=Zöld
+dbc.saagui.Cyan=Cián
+dbc.saagui.Blue=Kék
+dbc.saagui.curexp=Jelen DBC Tapasztalat:
+dbc.saagui.exptp=5 DBC Exp 
+dbc.saagui.newskill=Megtanultál egy új képességet!
+
+
+
+
+
+
+
+dbc.wishgui.diamonds=Gyémántok
+dbc.wishgui.chip=Szint 1 Csip
+dbc.wishgui.warcryst=Warenai Kristály
+dbc.wishgui.senzu=Senzu
+dbc.wishgui.kshard=Katchin szilánk
+dbc.wishgui.younger2=2 MC Évvel fiatalabb
+dbc.wishgui.younger6=6 MC Évvel fiatalabb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbc.talkgui.kintoun=Felhő kérés
+
+dbc.talkgui.learnki=Ki támadások tanulása
+
+
+
+
+dbc.talkgui.revfree=ingyenes újraéledés
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dbc.talkgui.line0000=Mindenható
+dbc.talkgui.line0001=Nos, nos a szíved nem tűnik
+dbc.talkgui.line0002=olyan tisztának ahogy gondoltam.
+dbc.talkgui.line0003=De még mindig tanítani foglak.
+dbc.talkgui.line0004=Annyira örülünk hogy élve látunk!
+dbc.talkgui.line0005=Kérlek, ha akarsz tudni Ki
+dbc.talkgui.line0006=támadásokat én meg tudom tanítani neked mind.
+dbc.talkgui.line0007=Mi nem szeretjük az olyanokat mint te, de 
+dbc.talkgui.line0008=én vagyok az egyetlen aki tanítani tud téged.
+dbc.talkgui.line0009=Megtanítalak a Ki támadásokra ha akarod.
+dbc.talkgui.line0010=Északi Kaito
+dbc.talkgui.line0011=Nem tűnsz olyan jónak
+dbc.talkgui.line0012=de egy erős harcos vagy
+dbc.talkgui.line0013=szóval megtanítalak a Technikáimra.
+dbc.talkgui.line0014=Oh hát itt vagy! Vártam rád!
+dbc.talkgui.line0015=A Technikáim a legerősebbek egyikévé
+dbc.talkgui.line0016=tesz! Azaz, ha jó maradsz.
+dbc.talkgui.line0017=Hogy kerülsz ide? A gonoszoknak mint
+dbc.talkgui.line0018=te nem meg engedett hogy rá lépj a
+dbc.talkgui.line0019=bolygómra. Nem foglak tanítani!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tile.BlockTCFloor.name=Lélek és Idő Szobájának Padlója
+tile.BlockTCPort.name=Lélek és Idő Szobájának Portálja
+
+tile.SpacePod01Block.name=Űrhajó
+
+item.SpacePod01Item.name=Űrhajó
+
+tile.SaibaiHatched.name=Kikelt Saibai
+
+item.ItemDragonRadar.name=Sárkány Radar
+
+tile.BlockNamekDragonBallStone.name=Kövesedett Nameki Sárkány Blokk
+item.ItemNamekDragonBlock.name=Nameki Sárkány Blokk
+
+tile.BlockDragonBallStone.name=Kövesedett Sárkány Blokk
+
+item.ItemDragonBlock.name=Sárkány Blokk 
+
+tile.BlockOreWrenai.name=Warenai Érc
+tile.BlockNamekGrass.name=Nameki Fű
+tile.BlockNamekLog.name=Ajisa Fa
+tile.BlockNamekDirt.name=Világos Föld
+tile.BlockNamekLeaves.name=Ajisa Levelek
+tile.BlockKiFire.name=Ki Energia
+tile.BlockNamekStone.name=Kő Fal
+tile.BlockAlienStone.name=Saras Kő
+tile.BlockAlienCobbleStone.name=Saras Zúzottkő
+
+
+
+item.ItemWarenai.name=Warenai Kristály
+item.ItemSenzu.name=Senzu Bab
+item.ItemKatana.name=Katana
+item.ItemKatchin.name=Katchin Szilánk
+item.ItemDinoMeat.name=Dinoszaurus Hús
+
+
+tile.BlockNamekSapling.name=Ajisa Csemete
+
+item.ItemBraveSword.name=Szent Kard
+item.ItemZSword.name=Z Kard
+item.ItemKatanaHandle.name=Katana Markolat
+item.ItemBraveSwordHandle.name=Szent kard Markolat
+item.ItemZSwordHandle.name=Z Kard Markolat
+item.ItemKatanaSwordBlade.name=Katana Penge
+item.ItemBraveSwordBlade.name=Szent Kard Penge
+item.ItemZSwordBlade.name=Z Kard Penge
+
+item.ItemAlienTechChipTier1.name=Tech Csip Szint 1
+item.ItemChipTier2.name=Tech Csip Szint 2
+item.ItemChipTier3.name=Tech Csip Szint 3
+
+item.KintounItem.name=Varázsfelhő
+
+
+
+item.YellowScoutera.name=Sárga Fürkész Szint 2
+item.RedScoutera.name=Piros Fürkész Szint 2
+item.PurpleScoutera.name=Lila Fürkész Szint 2
+item.BlueScoutera.name=Kék Fürkész Szint 2
+item.GreenScoutera.name=Zöld Fürkész Szint 2
+item.PinkScoutera.name=Rózsaszín Fürkész Szint 2
+item.YellowScouterb.name=Sárga Fürkész Szint 3
+item.RedScouterb.name=Piros Fürkész Szint 3
+item.PurpleScouterb.name=Lila Fürkész Szint 3
+item.BlueScouterb.name=Kék Fürkész Szint 3
+item.GreenScouterb.name=Zöld Fürkész Szint 3
+item.PinkScouterb.name=Rózsaszín Fürkész Szint 3
+
+item.YellowScouter.name=Sárga Fürkész Szint 1
+item.BattleArmorChest00.name=Harci Páncélzat Mellvért
+item.BattleArmorLegs00.name=Harci Páncélzat Ágyékvédő
+item.BattleArmorBoots00.name=Harci Páncélzat Csizma
+
+item.RedScouter.name=Piros Fürkész Szint 1
+item.BattleArmorChest01.name=Harci Páncélzat Mellvért
+item.BattleArmorLegs01.name=Harci Páncélzat Ágyékvédő
+item.BattleArmorBoots01.name=Harci Páncélzat Csizma
+
+item.PurpleScouter.name=Lila Fürkész Szint 1
+item.BattleArmorChest02.name=Harci Páncélzat Mellvért
+item.BattleArmorLegs02.name=Harci Páncélzat Ágyékvédő
+item.BattleArmorBoots02.name=Harci Páncélzat Csizma
+
+item.BlueScouter.name=Kék Fürkész Szint 1
+item.BattleArmorChest03.name=Harci Páncélzat Mellvért
+item.BattleArmorLegs03.name=Harci Páncélzat Ágyékvédő
+item.BattleArmorBoots03.name=Harci Páncélzat Csizma
+
+item.GreenScouter.name=Zöld Fürkész Szint 1
+item.BattleArmorChest04.name=Harci Páncélzat Mellvért
+item.BattleArmorLegs04.name=Harci Páncélzat Ágyékvédő
+item.BattleArmorBoots04.name=Harci Páncélzat Csizma
+
+item.PinkScouter.name=Rózsaszín Fürkész Szint 1
+item.BattleArmorChest05.name=Harci Páncélzat Mellvért
+item.BattleArmorLegs05.name=Harci Páncélzat Ágyékvédő
+item.BattleArmorBoots05.name=Harci Páncélzat Csizma
+
+item.GiFighterTorso1.name=Teknős Iskolai Gi
+item.GiFighterLeg1.name=Teknős Iskolai Gi
+item.GiFighterBoots1.name=Kék Cipők
+item.GiNamekTorso0.name=Nameki Gi
+item.GiNamekLeg0.name=Nameki Gi
+item.GiNamekBoots0.name=Nameki Cipők
+item.GiFutureTorso0.name=Jövőbeli Jacket
+item.GiFutureLeg0.name=Jövőbeli Nadrág
+item.GiFutureBoots0.name=Jövőbeli Cipők
+item.GiFighterTorso2.name=Kék Gi
+item.GiFighterLeg2.name=Kék Gi
+item.GiFighterBoots2.name=Fehér Csizmák
+
+item.KameTorso1.name=Teknős Iskolai Gi
+item.KameBoots1.name=Fekete cipő
+item.GiFighterTorso3.name=Teknős Iskolai Gi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

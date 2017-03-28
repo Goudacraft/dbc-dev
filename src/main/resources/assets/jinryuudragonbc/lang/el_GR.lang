@@ -1,0 +1,832 @@
+itemGroup.DragonBlockC=Dragon Block C
+
+jinryuudragonblockc.DBCServerConfigurations=Ρυθμίσεις Διακομιστή DBC
+jinryuudragonblockc.PlanetVegeta=Πλανήτης Βετζίτα
+jinryuudragonblockc.flyneedsskilllevel=Για Να Πετάξεις Θέλεις Ικανότιτα 
+jinryuudragonblockc.DBSpawn=Εμφάνιση των Dragonball
+jinryuudragonblockc.SagaSystem=Σύστημα Ιστορίας
+jinryuudragonblockc.DeathSystem=Σύστημα Θανάτου
+jinryuudragonblockc.Explosions=Εκρήξεις
+jinryuudragonblockc.NPCBuildingSpawnCheck=Έλεγχος εμφάνισης κτιρίων και NPC
+jinryuudragonblockc.KamiOutlookSafeZone=Ζώνες Ασφάλειας
+jinryuudragonblockc.DeathPenalty=Ποινή Θανάτου
+jinryuudragonblockc.Earthrate=Ρυθμός Εμφάνισης DragonBall Στη Γη
+jinryuudragonblockc.Namekrate=Ρυθμός Εμφάνισης DragonBall Στον Πλανήτη Νάμεκ
+
+jinryuudragonblockc.TName=Όνομα
+jinryuudragonblockc.TAcquired=Πάρθηκε
+jinryuudragonblockc.TOwner=Κάτοχος
+jinryuudragonblockc.TType=Τύπος
+jinryuudragonblockc.TSpeed=Ταχύτητα
+jinryuudragonblockc.TDamage=Ζημιά
+jinryuudragonblockc.TEffect=Επίδραση
+jinryuudragonblockc.TEnergyCost=Κόστος Ενέργειας
+jinryuudragonblockc.TCasttime=Χρόνος Φόρτισεις
+jinryuudragonblockc.TCooldown=Χρόνος
+jinryuudragonblockc.TColor=Χρώμα
+jinryuudragonblockc.TDensity=Πυκνότητα
+jinryuudragonblockc.TIncantation=Ήχος Φόρτισεις
+jinryuudragonblockc.TFire=Ήχος Εκτόξευσης
+jinryuudragonblockc.TMove=Κίνηση
+jinryuudragonblockc.Wave=Κυματιστό
+jinryuudragonblockc.Blast=Μπάλα
+jinryuudragonblockc.Disk=Δισκάκη
+jinryuudragonblockc.Laser=Λέιζερ
+jinryuudragonblockc.Spiral=Γυριστό
+jinryuudragonblockc.BigBlast=Μεγάλη Μπάλα
+jinryuudragonblockc.Barrage=Πολλές Μπάλες
+
+
+jinryuudragonblockc.maxDmgDesc=Η  Μπάρα, Όταν Είναι Μπλέ, Είναι Κανονική Φόρτοση. Όταν Είναι Κόκκινη, Είναι Υπερβολική Φόρτοση
+jinryuudragonblockc.potDmg=Βασική Ζημιά
+
+
+entity.jinryuudragonblockc.Namekian01.name=Ναμεκιανός
+entity.jinryuudragonblockc.Namekian03.name=Ναμεκιανός
+entity.jinryuudragonblockc.Saiyan01.name=Σάγιαν
+entity.jinryuudragonblockc.Saiyan02.name=Σάγιαν
+entity.jinryuudragonblockc.Saibaiman.name=Σάιιμπαμαν
+entity.jinryuudragonblockc.Raditz.name=Ράδιτς
+entity.jinryuudragonblockc.Nappa.name=Νάππα
+entity.jinryuudragonblockc.Vegeta.name=Βετζίτα
+entity.jinryuudragonblockc.Goku.name=Σον Γκόκου
+
+entity.jinryuudragonblockc.Kiwi.name=Κουί
+entity.jinryuudragonblockc.Dodoria.name=Ντοντόρια
+entity.jinryuudragonblockc.Zarbon.name=Ζάρμπον
+entity.jinryuudragonblockc.Guldo.name=Γκούλντο
+entity.jinryuudragonblockc.Recoome.name=Ρικούμ
+entity.jinryuudragonblockc.Barta.name=Μπέρτερ
+entity.jinryuudragonblockc.Jeice.name=Τζέις
+entity.jinryuudragonblockc.Ginyu.name=Γκίνγιου
+entity.jinryuudragonblockc.FreezaSoldier1.name=Στρατιώτης του Φρίζα
+entity.jinryuudragonblockc.FreezaSoldier2.name=Στρατιώτης του Φρίζα
+entity.jinryuudragonblockc.FreezaSoldier3.name=Στρατιώτης του Φρίζα
+entity.jinryuudragonblockc.Freeza1.name=Φρίζα
+entity.jinryuudragonblockc.Freeza2.name=Φρίζα
+entity.jinryuudragonblockc.Freeza3.name=Φρίζα
+entity.jinryuudragonblockc.Freeza4.name=Φρίζα
+entity.jinryuudragonblockc.Freeza5.name=Φρίζα
+entity.jinryuudragonblockc.Freeza6.name=Φρίζα
+
+entity.jinryuudragonblockc.KingCold.name=Βασιλιάς Κολντ
+entity.jinryuudragonblockc.MechaFreeza.name=Βιονικός Φρίζα
+entity.jinryuudragonblockc.Cell1.name=Σελ
+entity.jinryuudragonblockc.Cell2.name=Σελ
+entity.jinryuudragonblockc.Cell3.name=Σελ
+entity.jinryuudragonblockc.Cell4.name=Σελ
+
+entity.jinryuudragonblockc.Cyborg16.name=Ανδροειδές 16
+entity.jinryuudragonblockc.Cyborg17.name=Ανδροειδές 17
+entity.jinryuudragonblockc.Cyborg18.name=Ανδροειδές 18
+entity.jinryuudragonblockc.Cyborg19.name=Ανδροειδές 19
+entity.jinryuudragonblockc.Cyborg20.name=Ανδροειδές 20
+
+entity.jinryuudragonblockc.Puipui.name=Πουί Πουί
+entity.jinryuudragonblockc.Yakon.name=Γιάκον
+entity.jinryuudragonblockc.Darbura.name=Νταμπούρα
+entity.jinryuudragonblockc.BuuFat.name=Χοντρός Μάτζιν Μπου
+entity.jinryuudragonblockc.BuuSuper.name=Σούπερ Μάτζιν Μπου
+
+entity.jinryuudragonblockc.enma.name=Βασιλιάς Γιέμα
+entity.jinryuudragonblockc.kami.name=Κάμι
+entity.jinryuudragonblockc.northkaio.name=Βασιλιάς Κάι
+entity.jinryuudragonblockc.karin.name=Κόριν
+entity.jinryuudragonblockc.roshi.name=Μούτεν Ρόσι
+entity.jinryuudragonblockc.cellmaster.name=Δάσκαλος Σελ
+entity.jinryuudragonblockc.Freezamaster.name=Δάσκαλος Φρίζα
+entity.jinryuudragonblockc.gokumaster.name=Δάσκαλος Γκόκου
+entity.jinryuudragonblockc.masterbabidi.name=Δάσκαλος Μπάμπιντι
+
+entity.jinryuudragonblockc.EntityDino01.name=Δεινόσαυρος
+entity.jinryuudragonblockc.Kintoun.name=Σύννεφο
+entity.jinryuudragonblockc.KintounBlack.name=Μαύρο Σύννεφο
+entity.jinryuudragonblockc.SpacePod.name=Διαστημόπλοιο των Σάγιαν
+entity.jinryuudragonblockc.Dragon.name=Σένρον
+entity.jinryuudragonblockc.Dragon2.name=Σένρον
+entity.jinryuudragonblockc.Dragonp.name=Πορούνγκα
+entity.jinryuudragonblockc.Dragonp2.name=Πορούνγκα
+
+
+dbc.itemki.line1=Κι
+dbc.itemki.line2=Είναι μια ενέργεια, μια δύναμη
+dbc.itemki.line3=που χρησιμοποιείται για πολλές Τεχνικές του DBC
+
+dbc.itemDRadar.line1=Ένα ραντάρ τον DragonBlock
+dbc.itemDRadar.line2=Μπορεί να εντοπίσει DragonBlocks
+dbc.itemDRadar.line3=Αρκεί να μην είναι πέτρες
+
+dbc.itemKiAtt.line1=Κόστος (σε Κι)
+dbc.itemKiAtt.line2=Ζημιά
+dbc.itemKiAtt.line2.2=Μισές Καρδιές
+dbc.itemKiAtt.line3=Εκρύγνειται στο έδαφος
+dbc.itemKiAtt.line4=Βασική Κίνηση Κι
+
+dbc.itemSaiySaga.line1=Αντικείμενο της Σάγιαν Ιστορίας
+dbc.itemSaiySagaRad.line1=Ο Ράντιτς Έφτασε!
+dbc.itemSaiySagaRad.d.line1=Ράντιτς: 2 ακόμα Σάγιανς θα έρθουν για να καταστρέψουν εσένα και αυτον τον πλανήτη!
+dbc.itemSaiySagaVeg.line1=Ο Βετζίτα και ο Νάππα έφτασαν!
+dbc.itemSaiySagaVeg.d.line1=Βετζίτα: Αδύναμε πολεμιστή, αυτή δεν είναι  η τελευταία φορά που με βλέπεις!
+
+dbc.itemFreeSaga.line1=Αντικείμενο της Ιστορίας Φρίζα
+dbc.itemFreeSagaCui.line1=Κούι: Δε θα σε αφήσω να μπεις στη μέση του Άρχοντα Φρίζα!
+dbc.itemFreeSagaDod.line1=Ντοντόρια: Αδερφή, τι νομίζεις ότι κάνεις εκεί;
+dbc.itemFreeSagaZar.line1=Ζάρμπον: Κανείς δε μας κοροϊδεύει εμάς! Με ακούς; Κανείς!
+
+dbc.itemFreeSagaGin.1.line1=Είμαι ο Ρικούμ!
+dbc.itemFreeSagaGin.2.line1=Είμαι ο Μπέρτερ!
+dbc.itemFreeSagaGin.3.line1=Είμαι ο Τζέις!
+dbc.itemFreeSagaGin.4.line1=Γκούλντο!
+dbc.itemFreeSagaGin.5.line1=Κάπτεν Γκίνγιου!
+dbc.itemFreeSagaGin.6.line1=Όλοι μας μαζί είμαστε... Η Ομάδα Γκίνγιου!
+dbc.itemFreeSagaGin.d.1.line1=Ρικούμ: Μα τις σοκολάτες μου....
+dbc.itemFreeSagaGin.d.5.line1=Γκίνγιου: Δε μπορεί να συμβαίνει αυτό... Είμαι ο δεύτερος δυνατότερος, μετά τον Άρχοντα Φρίζα!!...
+
+dbc.itemFreeSagaFre.1.line1=Φρίζα: Δε θα ξεφύγεις μετά από όλα αυτά!
+dbc.itemFreeSagaFre.2.line1=Φρίζα: Θα σε σκοτώσω εγώ ο ίδιος!
+dbc.itemFreeSagaFre.d.1.line1=Φρίζα: Όχι, γιατί! Αν είχα προλάβει να μεταμορφωθεί, δε θα συνέβαινε ποτέ αυτό!
+dbc.itemFreeSagaFre.d.2.line1=Φρίζα: Αδύνατον! Πώς;...
+dbc.itemFreeSagaFre.d.3.line1=Φρίζα: Γιατί; Γιατί; Σε λίγα δευτερόλεπτα θα είχα μεταμορφωθεί, ξέρεις...
+dbc.itemFreeSagaFre.d.4.line1=Φρίζα: Τώρα δε θα δεις ποτέ την αληθινή μου δύναμη....
+dbc.itemFreeSagaFre.d.5.line1=Φρίζα: Δεν είναι δίκαιο! Γιατί δεν περίμενες να δεις την τελευταία μου μορφή;
+dbc.itemFreeSagaFre.d.6.line1=Φρίζα: Μα... πώς;!;!
+
+dbc.MainSaga.14.1=Βιονικός Φρίζα: Στρατιώτες, σκοτώστε τους Γήινους!
+dbc.MainSaga.14.2=Βασιλιάς Κόλντ: Δεν ήθελες να περιμένεις τον %1$s ;
+dbc.MainSaga.15.1=Βιονικός Φρίζα: Θα σε σκοτώσω για αυτό που μου έκανες!
+dbc.MainSaga.19.1=Ανδροειδές 20: Είμαστε Ανδροειδή φτιαγμένα από το Red Ribbon Army, που καταστράφηκε καιρό πριν.
+dbc.MainSaga.19.2=Ανδροειδές 19: Και τώρα είμαστε εδώ για εκδίκηση!
+dbc.MainSaga.22.1=Ανδροειδές 17: Επιτέλους, τώρα που ο Dr. Γκέρο πέθανε, κανείς δε θα μπορεί να μας απενεργοποιήσει.
+dbc.MainSaga.22.2=Ανδροειδές 18: Θέλω να παίξω με τον επισκέπτη μας μόνη μου.
+dbc.MainSaga.22.3=Ανδροειδές 17: Εντάξει, μέχρι να τελειώσεις θα ψάξω για  κανένα αυτοκίνητο με τον 16.
+dbc.MainSaga.26.1=Σελ: Μπορώ μόνο να ελπίζω οτι θα με διασκεδάσεις περισσότερο από την προηγούμενη φορά.
+dbc.MainSaga.26.2=Σελ: Δεν μπορείς να κρυφτείς από εμένα!
+
+dbc.MainSaga.25.1=Ανδροειδές 17: Τι συνέβη στη 18; Υποτίθεται οτι κανείς δεν μπορεί να μας νικήσει!
+dbc.MainSaga.25.2=Ανδροειδές 16: Δεν μπορώ να αφήσω τον Σελ να σε πάρει, 17. Φύγε από εδώ αμέσως!
+dbc.MainSaga.25.3=Ανδροειδές 17: Ποιόν νομίζεις πως διατάζεις; Είμαι ο 17, είμαι ο δυνατότερος όλων!
+dbc.MainSaga.29.1=Σελ: Μπορώ μόνο να ελπίζω οτι θα με διασκεδάσεις περισσότερο από την προηγούμενη φορά.
+dbc.MainSaga.29.2=Σελ: Δεν μπορείς να κρυφτείς από εμένα!
+dbc.MainSaga.17.1=Εντάξει, θα το κοιτάξω.
+dbc.MainSaga.17.2=Κάτι απαίσιο συμβαίνει! Φαίνεται πως κάτι πολύ
+dbc.MainSaga.17.3=χειρότερο από τον Φρίζα θα έρθει στο κοντινό
+dbc.MainSaga.17.4=μέλλον. Μπορείς να κοιτάξεις κάτι για εμένα;
+dbc.MainSaga.d.Cold=Βασιλιάς Κολντ: ΜΗ ΜΕ ΣΚΟΤΩΣΕΙΙΙΙΙΣ!!!!
+dbc.MainSaga.d.Freeza=Βιονικός Φρίζα: Αδύνατον....
+
+dbc.MainSaga.d.c20=Ανδροειδές 20: Δε μου αφήνεις άλλη επιλογή, πρέπει να ενεργοποιήσω τον 17 και τη 18! Και δε θα χαρείς με αυτό!
+dbc.MainSaga.d.c19=Ανδροειδές 19: Δε θέλω να πεθάνω!!!
+dbc.MainSaga.d.c19.resp=%1$s: Πόσο ειρωνικό να το ακούς αυτό από ένα ανδροειδές.
+dbc.MainSaga.d.c18=Ανδροειδές 18: Όχι! μείνε μακριά μου, τέρας! ΑΑΑΑΑ!
+dbc.MainSaga.22.cell1=Σελ: Μη ανησυχείς, τώρα είσαι μέρος μου 18.
+dbc.MainSaga.22.cell2=Σελ: Θα σε χρησιμοποιήσω καλά, πίστεψέ με 17.
+dbc.MainSaga.23.cell0=Σελ: Κανείς δε θα μπει στη μέση της Τελειότητάς μου! ΚΑΝΕΙΣ!!
+dbc.MainSaga.23.cell1=Σελ: Μόνο ένα βήμα μακριά από την Τελειότητα!
+dbc.MainSaga.23.cell2=Σελ: Επιτέλους, είμαι τέλειος!!
+dbc.MainSaga.23.cell3=Σελ: Θα σε αφήσω να φύγεις αυτή τη φορά. Οπότε, μέχρι την επόμενη φορά, γίνε δυνατότερος!
+dbc.MainSaga.d.c17=Ανδροειδές 17: Τι στο... Τι είσαι εσύ; Θα σε σκοτ-- ΑΑΑΑΑ!!
+dbc.MainSaga.d.c16=Ανδροειδές 16: Συγγνώμη. Ήθελα μόνο να προστατέψω τον κόσμο της Φύσης που αγαπώ.
+dbc.MainSaga.d.cell1=Σελ: Πιστεύεις πως μπορείς να με σκοτώσεις τόσο εύκολα;
+dbc.MainSaga.d.cell2=Σελ: Δε δουλέυει αυτό σε εμένα,  ξέρεις.
+dbc.MainSaga.d.cell3=Σελ: Έπρεπε να είμαι Τέλειος... Τότε πώς εσύ... Όχι... Είμαι Τέλειος!!!!!
+dbc.MainSaga.d.cell4=Σελ: Είμαι.... Τέλειος.......!
+
+dbc.MainSaga.30.1=Μπάμπιντι: Ποιός είσαι εσύ; Νομίζεις πως μπορείς να με σταματήσεις;; Χαχαχ, ωραίο αστείο.
+dbc.MainSaga.31.1=Πούι Πούι: Κανείς πάνω στη Γη δε μπορεί να με νικήσει.
+dbc.MainSaga.31.d=Πούι Πούι: Όχι... Δεν είναι δυνατόν...
+dbc.MainSaga.32.1=Γιάκον: ΓΡΡΡΑΑΑΓΚΧ!!
+dbc.MainSaga.32.d=Γιακον: ΝΝΓΚΡΑΑΑΑ!!!
+dbc.MainSaga.33.1=Νταμπούρα: Έφτασες μακριά, αλλά εδώ θα σε σταματήσω.
+dbc.MainSaga.33.d=Νταμπούρα: Είσαι όντως, δυνατός, αλλά όχι αρκετά δυνατός.
+dbc.MainSaga.34.1=Μάτζιν Μπου: Μπου! Μπου! Μπου σε μεταμορφώσει σε σοκολάτα!
+dbc.MainSaga.34.d=Μπάμπιντι: Έλα τώρα Μάτζιν Μπου, άσε αυτόν τον αδύναμο. Έχουμε δουλειά να κάνουμε!
+dbc.MainSaga.36.1=Μάτζιν Μπου: Αυτή τη φορά, Μπου δε σε αφήσει ζήσεις!
+dbc.MainSaga.36.d=Μάτζιν Μπου: Τώρα Μπου θυμωμένος! Μπου σε σκοτώσει!
+dbc.MainSaga.38.1=Μάτζιν Μπου: Εσύ... Μπου σε θυμάται! Είσαι από αυτούς που σκότωσε!
+dbc.MainSaga.38.2=Μάτζιν Μπου: Θέλεις κι άλλο, ε; Εντάξει, αλλά αυτή θα είναι η τελευταία φορά!
+dbc.MainSaga.38.d=Μάτζιν Μπου: ΓΚΡΑΑΑΑΑΑΑΧΧΧ!!!
+
+dbc.sidesagas.101.talkok=Κανένα πρόβλημα.
+dbc.sidesagas.101.talk=Ευχαριστώ που σταμάτισες την επίθεση των Σάιμπαμαν
+
+dbc.sagasystem.freeza=Ιστορία Φρίζα
+dbc.sagasystem.saiyan=Ιστορία Σάγιαν
+dbc.sagasystem.android=Ιστορία Ανδροειδή
+dbc.sagasystem.buu=Ιστορία Μπου
+dbc.sagasystem.credits=Τίτλοι τέλους:
+dbc.sagasystem.0.title=Η αρχή
+dbc.sagasystem.0.desc=Νιώθεις μια δυσάρεστη ενέργεια! Είσαι έτοιμος για αυτό;
+dbc.sagasystem.0.obj=Πάτα το Start για να ξεκινήσεις τη βασική Ιστορία.
+dbc.sagasystem.1.title=Τι; Σάγιαν; Τι είναι αυτό, τρώγεται;
+dbc.sagasystem.1.desc=Σκότωσε Σάιιμπαμαν για να πάρεις πληροφορίες. Μπορείς να τους βρεις σε Πέτρινο Biome.
+dbc.sagasystem.1.obj=Σκότωσε 6 Σάιιμπαμαν
+dbc.sagasystem.2.title=Η Άφιξη του Ράντις
+dbc.sagasystem.2.desc=Ο Ράτιτς έφτασε στη Γη ψάχνοντας για τον αδερφό του, που στάλθηκε εδώ σαν μωρό.
+dbc.sagasystem.2.obj=Σκότωσε τον Ράντιτς!
+dbc.sagasystem.3.title=Δυνατότεροι Σάγιανς
+dbc.sagasystem.3.desc=Ο Ράντιτς είπε πως ακόμα 2 Σάγιανς έρχονται, πολύ πιο δυνατοί απ' ό,τι ήταν αυτός.
+dbc.sagasystem.3.obj=Σκότωσε 12 ακόμα Σάιιμπαμαν.
+dbc.sagasystem.4.title=Βετζίτα και Νάππα.
+dbc.sagasystem.4.desc=Έφτασαν και θέλουν να εξολοθρεύσουν την Γη. Μην τους αφήσεις!
+dbc.sagasystem.4.obj=Σκότωσέ τους!
+dbc.sagasystem.5.title=Ο Βετζίτα Δραπέτευσε!
+dbc.sagasystem.5.desc=Ταξίδεψε ως τον Νάμεκ, αν θες μια μεγαλύτερη πρόκληση... Θα τη βρεις εκεί >:)
+dbc.sagasystem.5.obj=Πήγαινε στον Νάμεκ με ένα διαστημόπλοιο.
+dbc.sagasystem.6.title=Ποιός είναι ο Φρίζα;
+dbc.sagasystem.6.desc=Στρατιώτες παντού στον Νάμεκ; Από πού έρχονται, και γιατί;
+dbc.sagasystem.6.obj=Σκότωσε 12 από τους στρατιώτες του Φρίζα.
+dbc.sagasystem.7.title=Νέος Κίνδυνος!
+dbc.sagasystem.7.desc='Τι είναι αυτο; Δυνατότερος απο εμένα; Με τίποτα! Κανένας δεν είναι!'
+dbc.sagasystem.7.obj=Πολέμησε τον Κούι!
+dbc.sagasystem.8.title=Ο Ντοντόρια σε βρίσκει!
+dbc.sagasystem.8.desc='Μην τολμήσεις, είμαι εδώ! Είμαι ο πιο δυνατός.'
+dbc.sagasystem.8.obj=Πολέμησε τον Ντοντόρια!
+dbc.sagasystem.9.title='Ζάρμπον, κάνε κάτι! Αλλιώς...!'
+dbc.sagasystem.9.desc=Φαίνεται πως ο Ζάρμπον πρέπει να πολεμήσει, ή θα σκοτωθεί από τον Φρίζα... Ε, θα σκοτωθεί έτσι κι αλλιώς αν είναι στο δρόμο σου.
+dbc.sagasystem.9.obj=Πολέμησε τον Ζάρμπον!
+dbc.sagasystem.10.title=Η Ομάδα Γκίνγιου
+dbc.sagasystem.10.desc='Είμαι ο Ρικούμ', 'Είμαι ο Μπέρτερ', 'Είμαι ο Τζέις', 'Γκούλντο', 'Κάπτεν Γκίνγιου'... Όλοι μας μαζί είμαστε... Η Ομάδα Γκίνγιου! ΤΙ ΣΤΟ ΚΑΛΟ;!;!
+dbc.sagasystem.10.obj=Σκότοσε την Ομάδα Γκίνγιου!
+dbc.sagasystem.11.title=Δε Θα Συγχωρήσει..
+dbc.sagasystem.11.desc='Κατέστρεψες τα σχέδιά μου, την ομάδα μου, και την ευχή μου! Πώς θα ήθελες να σε σκοτώσω τώρα;!'
+dbc.sagasystem.11.obj=Πολέμησε τον Φρίζα!
+dbc.sagasystem.12.title=Πίσω στη Γη
+dbc.sagasystem.12.desc=Η μάχη τελείωσε. Γύρνα πίσω στη Γη, για να βεβαιωθείς πως όλα είναι καλά.
+dbc.sagasystem.12.obj=Πήγαινε στη Γη.
+dbc.sagasystem.13.title=Δεν είναι νεκρός ο Φρίζα;
+dbc.sagasystem.13.desc=Ένιωσες μια μεγάλη παρουσιά Ki να έρχεται προς τη Γη... Δεν μπορεί... Είναι εκείνος!'
+dbc.sagasystem.13.obj=Ψάξε για Πεδιάδες Biome.
+dbc.sagasystem.14.title=Ο Φρίζα Γύρισε!
+dbc.sagasystem.14.desc=Πολέμησέ τους, και μην αφήσεις τη Γη να πέσει στην καταδίκη της!
+dbc.sagasystem.14.obj=Σκότωσε τους στρατιώτες του Βασιλιά Κολντ.
+dbc.sagasystem.15.title=Ο Βασιλιάς Κολντ είναι τεράστιος...
+dbc.sagasystem.15.desc=Ο Φρίζα είναι πιο δυνατός από ποτέ και, τώρα, είναι εδώ με τον μπαμπάκα του;
+dbc.sagasystem.15.obj=Σκότωσέ τους!
+dbc.sagasystem.16.title=Μορφή Super Σάγιαν
+dbc.sagasystem.16.desc=Κάποτε, η ιικανότητα να μεταμορφωθείς σε Super Σάγιαν θεωρούνταν ένας μύθος, καθώς δεν είχε επιτευχθεί για πάνω απο 1000 χρόνια.
+dbc.sagasystem.16.obj=Απόκτησε τη μορφή Super Σάγιαν, και μεταμορφώσου.
+dbc.sagasystem.17.title=Κακός Οιωνός
+dbc.sagasystem.17.desc=Ο Κάμι φαίνεται πως θέλει να σου πει κάτι πολύ σημαντικό.
+dbc.sagasystem.17.obj=Μίλα με τον Κάμι
+dbc.sagasystem.18.title=Κάτι συμβαίνει!
+dbc.sagasystem.18.desc=Τι μπορεί να είναι αυτό που φοβάται τόσο πολύ ο Κάμι; Ας ελπίσουμε πως δεν είναι τόσο κακό όσο πιστεύει.
+dbc.sagasystem.18.obj=Βρες ένα Biome Πέτρας
+dbc.sagasystem.19.title=Ανδροειδή;
+dbc.sagasystem.19.desc='Πρώτα εξωγήινοι, τώρα ανδροειδή. Μάλιστα. Τι συμβαίνει σε αυτό τον κόσμο...;'
+dbc.sagasystem.19.obj= Πολέμησε τα Ανδροειδή.
+dbc.sagasystem.20.title=Περισσότερα Ανδροειδή;
+dbc.sagasystem.20.desc=Αυτό το Ανδροειδές 20 το έσκασε. Σου είπε κάτι για τα ανδροιειδή 17 και 18. Είπε πως είναι πολύ πιο δυνατά από αυτόν.
+dbc.sagasystem.20.obj=Πήγαινε στην Αίθουσα Υπερβολικού Χρόνου
+dbc.sagasystem.21.title=Νέα Ανδροειδή
+dbc.sagasystem.21.desc=Σύμφωνα με τον Κάμι, τα ανδροειδή βρίσκονται σε Biome Πεδιάδες.
+dbc.sagasystem.21.obj=Βρες Biome Πεδιάδες.
+dbc.sagasystem.22.title=Ο Dr. Τζέρο ήταν το ανδροειδές 20
+dbc.sagasystem.22.desc=Φαίνεται πως τα Ανδροειδή ενεργοποιήθηκαν, και ένα από αυτά θέλει να πολεμήσει. Πολέμησε το Ανδροειδές.
+dbc.sagasystem.22.obj=Πολέμησε την 18
+dbc.sagasystem.23.title=Σελ, το Βιο-Ανδροειδές
+dbc.sagasystem.23.desc=Τι είναι αυτό; Δε μοιάζει για Ανδροειδές, αλλά είναι πολύ δυνατό.
+dbc.sagasystem.23.obj=Πολέμησε τον Σελ
+dbc.sagasystem.24.title=Πολέμησε τον Σελ
+dbc.sagasystem.24.desc=Ο Σελ είπε πως θα σταματήσει τις μάχες μέχρι να γίνεις δυνατότερος. Πού είναι τα άλλα Ανδροειδή;
+dbc.sagasystem.24.obj=Βρες ένα Biome Πέτρας
+dbc.sagasystem.25.title=Ο 16 θέλει να προστατέψει τον 17;
+dbc.sagasystem.25.desc=Φαίνεται πως ο 16 είναι δυνατότερος από τον 17. Χμμ... ποιός είναι ο σκοπός του;
+dbc.sagasystem.25.obj=Πολέμησε τον 17 και τον 16
+dbc.sagasystem.26.title=Ο Σελ, ξανά -.-
+dbc.sagasystem.26.desc=Φαίνεται πως ο Σελ επιτέλους κατάφερε να απορροφήσει τη 17... Δεν είναι καθόλου καλό αυτό.
+dbc.sagasystem.26.obj=Πολέμησε τον Σελ
+dbc.sagasystem.27.title=Αυξημένο Super Σάγιαν
+dbc.sagasystem.27.desc=Απόκτησε μια μορφή πιο δυνατή απο Super Σάγιαν, για να πολεμήσεις τον Σελ με φουλ δύναμη.
+dbc.sagasystem.27.obj=Φτάσε μια καινούρια μορφή Super Σάγιαν
+dbc.sagasystem.28.title=Ο Σελ περιμένει
+dbc.sagasystem.28.desc='Δε θα αφήσω τον Σελ να κάνει όπως θέλει! Θα πεθάνει από τα δικά μου χέρια!'
+dbc.sagasystem.28.obj=Βρες ένα Biome Πεδιάδες
+dbc.sagasystem.29.title=Τελευταία μάχη
+dbc.sagasystem.29.desc=Πολέμησε τον Σελ στο έπακρο, και σώσε τη Γη
+dbc.sagasystem.29.obj=Σκότωσε επιτέλους τον Σελ
+dbc.sagasystem.30.title=Νέος Κίνδυνος
+dbc.sagasystem.30.desc=Ο βασιλιάς και σε προ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jinryuudragonblockc.Fly=Η ικανότητα Πέταγμα απαιτεί να την αγοράσεις πρώτα για να τη χρησιμοποιήσεις
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
